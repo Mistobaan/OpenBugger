@@ -11,4 +11,5 @@ exclude =
     build
     dist
     temp
+    logic/logic_injector_output_example.py
 max-complexity = 10

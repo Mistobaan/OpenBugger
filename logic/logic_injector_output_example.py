@@ -1,3 +1,5 @@
+# noqa
+
 mvp_logic_output_example=[ ("""
 x = 5
 y = 10

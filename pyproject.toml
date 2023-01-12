@@ -20,6 +20,7 @@ pytest = "^6.1.2"
 py38 = true
 include = '\.pyi?$'
 line_length = 88
+exclude = 'logic/.*'
 
 [tool.isort]
 multi_line_output = 3
