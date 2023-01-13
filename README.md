@@ -25,8 +25,6 @@ from syntax.syntax_injector import SyntaxInjector, SyntaxBug
 
 syntax_bug = SyntaxBug()
 
-
-
 # Simple script
 simple_script = """
 def greet(name):
